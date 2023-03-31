@@ -1,0 +1,19 @@
+header {
+  /* background-image: url(../images/borbotones.jpg); */
+}
+
+h1 {
+  font-size: 2.8rem;
+}
+
+h2 {
+  font-size: 2.3rem;
+}
+
+h3 {
+  font-size: 1.8rem;
+}
+
+@media screen and (min-width: 600px) {
+  
+}
